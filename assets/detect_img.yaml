@@ -1,0 +1,7 @@
+train: /home/lauriano/Documentos/FIAP/MACHINE-LEARNING/FASE-07/ativ-01-cons-sist/assets/images/train
+val: /home/lauriano/Documentos/FIAP/MACHINE-LEARNING/FASE-07/ativ-01-cons-sist/assets/images/val
+
+names: # Defina aqui as labels do seu dataset
+  0: "broca"
+  1: "cigarra"
+  
